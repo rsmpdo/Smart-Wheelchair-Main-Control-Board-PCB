@@ -47,5 +47,5 @@ J7 / J8	B8B-XH JST -	Dual IBT-2 Motor Driver Outputs
 
 ![Project Screenshot](https://github.com/rsmpdo/Smart-Wheelchair-Main-Control-Board-PCB/blob/main/Images/01.png?raw=true)
 
-
+More project Details : https://www.linkedin.com/in/shashika-madhusankha-99aab9311/details/projects/
 
