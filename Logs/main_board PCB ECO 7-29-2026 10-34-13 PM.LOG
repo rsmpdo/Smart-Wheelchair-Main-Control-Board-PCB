@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=GND_NET Pin=DS2-2
+Removed Member From Class: ClassName=main_board Member=DS2
+Added Component: Designator=D4(WL-TMRC_D5.9H8.7)
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Size"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Circular, Diffused, Round"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "500mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "465nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "40°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "470nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "YEOL"; Value = "1 = Estimated lifetime > 10 years"; VariantName = "[No Variations]"
+Added Component: Designator=ESP32(ESP32S3DevKitC1N32R16V)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp-dev-kits-en-master-esp32s3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-S3-DevKitC-1-N32R16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-32S3DKTC1N32R16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-S3-DevKitC-1-N32R16V?qs=sqEgtWRSLJ3pTWIVKUeIew%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X4)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContactPlating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Header 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillAndSlotSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X4)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContactPlating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Header 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillAndSlotSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Miscellaneous Connectors.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(FP-RN73R2B-MFG)
+Added Component: Designator=R14(FP-RN73R1E-IPC_B)
+Added Pin To Net: NetName=GND_NET Pin=D4-2
+Added Pin To Net: NetName=3V3_NET Pin=P6-1
+Added Pin To Net: NetName=GND_NET Pin=P6-2
+Added Pin To Net: NetName=5V_NET Pin=P7-1
+Added Pin To Net: NetName=GND_NET Pin=P7-2
+Added Pin To Net: NetName=GND_NET Pin=R14-1
+Added Pin To Net: NetName=GPS_RX Pin=P2-3
+Added Pin To Net: NetName=GPS_RX Pin=P6-4
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=P2-2
+Added Pin To Net: NetName=GPS_TX Pin=P6-3
+Added Net: Name=GPS_TX
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R11-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_3 Pin=R13-2
+Added Pin To Net: NetName=NetP7_3 Pin=R14-2
+Added Net: Name=NetP7_3
+Added Pin To Net: NetName=VOICE_RX Pin=P1-11
+Added Pin To Net: NetName=VOICE_RX Pin=P7-4
+Added Net: Name=VOICE_RX
+Added Pin To Net: NetName=VOICE_TX Pin=P1-10
+Added Pin To Net: NetName=VOICE_TX Pin=R13-1
+Added Net: Name=VOICE_TX
+Added Member To Class: ClassName=main_board Member=Component D4 151051BS04000
+Added Member To Class: ClassName=main_board Member=Component ESP32 ESP32-S3-DevKitC-1-N32R16V
+Added Member To Class: ClassName=main_board Member=Component P6 Header 4
+Added Member To Class: ClassName=main_board Member=Component P7 Header 4
+Added Member To Class: ClassName=main_board Member=Component R13 RN73R2BTTD1001F25
+Added Member To Class: ClassName=main_board Member=Component R14 RN73R1ETTP2001F25

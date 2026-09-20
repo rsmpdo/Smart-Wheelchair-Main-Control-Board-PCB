@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=US_TRIG_1 Pin=J3-2
+Removed Pin From Net: NetName=US_TRIG_1 Pin=P1-17
+Add component: Footprint Not Found ESP32S3DevKitC1N32R16V
+Added Pin To Net: NetName=US_TRIG_2 Pin=J3-2
+Added Pin To Net: NetName=US_TRIG_2 Pin=P1-17
+Added Net: Name=US_TRIG_2
+Add Class Member: Failed to add class member : Component ESP32 ESP32-S3-DevKitC-1-N32R16V
