@@ -30,12 +30,19 @@ The Main Board serves as the central hardware routing and power management hub f
 **Connector Quick Reference**
 
 J1 Screw Terminal	- 12V Power Input 
+
 P1 / P2 Female Headers -	ESP32-S3 Board Socket 
+
 P3	8-Pin Header - MPU-6050 IMU Interface 
+
 P4	4-Pin Header	- Caregiver Remote Interface 
+
 P6 / P7	4-Pin Headers -	GPS & Voice UART Ports 
+
 J2 – J5	B4B-XH JST -	Ultrasonic Sensor Array 
+
 J6	B5B-XH JST -	Analog Joystick Control 
+
 J7 / J8	B8B-XH JST -	Dual IBT-2 Motor Driver Outputs
 
 
