@@ -1,0 +1,542 @@
+*************************************************************
+FileName = main_board.GBR
+AutoAperture = True
+*************************************************************
+Generating : layer 01
+      File : main_board_Copper_Signal_Top.gbr
+
+    Adding Layer      : layer 01
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : main_board_Copper_Signal_1.gbr
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : layer 02
+      File : main_board_Copper_Signal_2.gbr
+
+    Adding Layer      : layer 02
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : esp32-1
+      File : main_board_Copper_Signal_3.gbr
+
+    Adding Layer      : esp32-1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : esp32
+      File : main_board_Copper_Signal_4.gbr
+
+    Adding Layer      : esp32
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : layer 03
+      File : main_board_Copper_Signal_5.gbr
+
+    Adding Layer      : layer 03
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : GND-1
+      File : main_board_Copper_Signal_6.gbr
+
+    Adding Layer      : GND-1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : layer 04
+      File : main_board_Copper_Signal_Bot.gbr
+
+    Adding Layer      : layer 04
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : main_board_Pads_Bot.gbr
+
+    Adding Layer      : layer 04
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : main_board_Pads_Top.gbr
+
+    Adding Layer      : layer 01
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : main_board_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : main_board_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : main_board_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : layer 01
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : main_board_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : layer 04
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+    D33
+    D35
+    D36
+    D37
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : main_board_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : layer 01
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : main_board_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : layer 04
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : main_board_Profile.gbr
+
+
+Used DCodes :
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : main_board_NPTH_Drill.gbr
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : main_board_PTH_Drill.gbr
+
+
+Used DCodes :
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : main_board_Drawing_1.gbr
+
+    Adding Drill Pair : layer 01-layer 04
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : main_board_Drawing_2.gbr
+
+    Adding Drill Pair : Counterholes Top
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : main_board_Drawing_3.gbr
+
+    Adding Drill Pair : Counterholes Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D73
+*************************************************************
+

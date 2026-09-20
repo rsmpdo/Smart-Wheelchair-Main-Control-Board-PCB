@@ -1,0 +1,33 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [main board.PrjPcb]
+   Generated File[main_board_Copper_Signal_Top.gbr]
+   Generated File[main_board_Copper_Signal_1.gbr]
+   Generated File[main_board_Copper_Signal_2.gbr]
+   Generated File[main_board_Copper_Signal_3.gbr]
+   Generated File[main_board_Copper_Signal_4.gbr]
+   Generated File[main_board_Copper_Signal_5.gbr]
+   Generated File[main_board_Copper_Signal_6.gbr]
+   Generated File[main_board_Copper_Signal_Bot.gbr]
+   Generated File[main_board_Pads_Bot.gbr]
+   Generated File[main_board_Pads_Top.gbr]
+   Generated File[main_board_Legend_Top.gbr]
+   Generated File[main_board_Legend_Bot.gbr]
+   Generated File[main_board_Soldermask_Top.gbr]
+   Generated File[main_board_Soldermask_Bot.gbr]
+   Generated File[main_board_Paste_Top.gbr]
+   Generated File[main_board_Paste_Bot.gbr]
+   Generated File[main_board_Profile.gbr]
+   Generated File[main_board_NPTH_Drill.gbr]
+   Generated File[main_board_PTH_Drill.gbr]
+   Generated File[main_board_Drawing_1.gbr]
+   Generated File[main_board_Drawing_2.gbr]
+   Generated File[main_board_Drawing_3.gbr]
+   Generated File[main_board.EXTREP]
+   Generated File[main_board.REP]
+
+
+Files Generated   : 24
+Documents Printed : 0
+
+Finished Output Generation At 12:57:11 AM On 9/13/2026
