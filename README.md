@@ -36,7 +36,7 @@ P4	4-Pin Header	- Caregiver Remote Interface
 P6 / P7	4-Pin Headers -	GPS & Voice UART Ports 
 J2 – J5	B4B-XH JST -	Ultrasonic Sensor Array 
 J6	B5B-XH JST -	Analog Joystick Control 
-J7 / J8	B8B-XH JST -	Dual IBT-2 Motor Driver Outputs 
+J7 / J8	B8B-XH JST -	Dual IBT-2 Motor Driver Outputs
 
 
 
