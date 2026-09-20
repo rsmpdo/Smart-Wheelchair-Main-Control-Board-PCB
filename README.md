@@ -2,6 +2,7 @@
 The Main Board is the central hardware routing and power management hub for the Smart Wheelchair System. Built around the ESP32-S3-DevKit, this custom-designed printed circuit board (PCB) integrates power distribution, signal processing and multi-sensor navigation into a single unified architecture.
 
 **Overview**
+
 The Main Board serves as the central hardware routing and power management hub for the Smart Wheelchair System. Designed around the ESP32-S3-DevKitC-1-N32R16V platform, this custom PCB integrates multi-directional ultrasonic obstacle avoidance, inertial navigation, analog joystick control, caregiver override, voice processing, GPS telemetry and dual high-power motor driver interfaces onto a single board. 
 
 **Technical Specifications**
@@ -36,6 +37,8 @@ P6 / P7	4-Pin Headers -	GPS & Voice UART Ports
 J2 – J5	B4B-XH JST -	Ultrasonic Sensor Array 
 J6	B5B-XH JST -	Analog Joystick Control 
 J7 / J8	B8B-XH JST -	Dual IBT-2 Motor Driver Outputs 
+
+
 
 
 
